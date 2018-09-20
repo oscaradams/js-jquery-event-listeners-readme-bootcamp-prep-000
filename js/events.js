@@ -19,5 +19,7 @@ function frameIt(){
 }
 
 function pressIt(){
-  $(document)
+  $(document).on('key press', function(key){
+    if(key.which == )
+  })
 }
