@@ -28,6 +28,6 @@ function pressIt(){
 
 function submitIt(){
   $('form').on('submit', function(){
-    alert('GUESS WHAT YOU FUCK')
+    alert('Your form is going to be submitted now.')
   })
 }
